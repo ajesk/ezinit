@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ezinit/static/css/main.2a8cafeb.css",
+    "main.js": "/ezinit/static/js/main.c365226e.js",
+    "static/js/787.09589957.chunk.js": "/ezinit/static/js/787.09589957.chunk.js",
+    "index.html": "/ezinit/index.html",
+    "main.2a8cafeb.css.map": "/ezinit/static/css/main.2a8cafeb.css.map",
+    "main.c365226e.js.map": "/ezinit/static/js/main.c365226e.js.map",
+    "787.09589957.chunk.js.map": "/ezinit/static/js/787.09589957.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a8cafeb.css",
+    "static/js/main.c365226e.js"
+  ]
+}
